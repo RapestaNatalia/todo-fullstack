@@ -2,7 +2,7 @@
 
 I have created a full stack web app for adding todo tasks.
 
-##Front End dependencies:
+## Front End dependencies:
 ```
  "dependencies": {
     "@apollo/client": "^3.3.21",
@@ -16,7 +16,7 @@ I have created a full stack web app for adding todo tasks.
     "yup": "^0.32.9"
   }
   ```
-##Back End dependencies:
+## Back End dependencies:
 ```
  "dependencies": {
     "apollo-server": "^3.0.2",
@@ -30,3 +30,8 @@ I have created a full stack web app for adding todo tasks.
   I've learnt a lot doing this project. I am accostume to create express and REST API in the backend, but here I've implemented something new, GraphQL with mongoose   and Apollo Server. 
   It is my first time using it, and it is really easy to understand and use.
   Also it is my first time experimenting with Next.js and Tailwind at the frontend.
+## Default user
+```
+   "email": "nd.rapesta@gmail.com",
+    "password": "1234"
+```
