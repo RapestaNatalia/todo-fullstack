@@ -27,6 +27,6 @@ I have created a full stack web app for adding todo tasks.
   }
   ```
   
-  I'velearnt a lot doing this project. I am accostume to create express and REST API in the backend, but here I've implemented something new, GraphQL with mongoose and Apollo Server. 
+  I've learnt a lot doing this project. I am accostume to create express and REST API in the backend, but here I've implemented something new, GraphQL with mongoose   and Apollo Server. 
   It is my first time using it, and it is really easy to understand and use.
   Also it is my first time experimenting with Next.js and Tailwind at the frontend.
