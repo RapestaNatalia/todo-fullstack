@@ -1,7 +1,11 @@
-# todo-fullstack
+# todo-backend
 
-I have created a full stack web app for adding todo tasks.
+I have created a full stack web app for adding todo tasks. This is the backend part with graphQl and mongoose. 
 
+# Main functionalities:
+- It implements the login part with libraries like jsonwebtoken and decrypt.
+- With this implementation, you are also able to create a file, a folder and add a file to the correspondent folder.
+ 
 ## Front End dependencies:
 ```
  "dependencies": {
